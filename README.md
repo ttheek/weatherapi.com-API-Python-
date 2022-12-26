@@ -16,11 +16,12 @@
 - Air Quality Data
 - Response available as JSON or XML
 
-#Example
+Example
 
 Astronomy API JSON
 
-```{
+```
+{
     "location": {
         "name": "London",
         "region": "City of London, Greater London",
@@ -42,3 +43,8 @@ Astronomy API JSON
         }
     }
 }
+```
+
+Download
+```
+https://github.com/ttheekshana2003/weatherapi.com-API-Python-.git
